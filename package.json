@@ -1,0 +1,23 @@
+{
+  "name": "otus-homework-1",
+  "version": "1.0.0",
+  "description": "first otus homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parabutteo/otus-homework-1.git"
+  },
+  "keywords": [
+    "npm",
+    "git"
+  ],
+  "author": "Nikolai Konushkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parabutteo/otus-homework-1/issues"
+  },
+  "homepage": "https://github.com/parabutteo/otus-homework-1#readme"
+}
